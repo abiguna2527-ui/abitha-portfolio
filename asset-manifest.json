@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/abitha-portfolio/static/css/main.7b166e4f.css",
+    "main.js": "/abitha-portfolio/static/js/main.17fdfe30.js",
+    "static/media/About.jpeg": "/abitha-portfolio/static/media/About.4b526521766091e962de.jpeg",
+    "static/media/Hero.jpeg": "/abitha-portfolio/static/media/Hero.883748ada54c063b6497.jpeg",
+    "static/media/food-ecommerce-website.jpg": "/abitha-portfolio/static/media/food-ecommerce-website.1f8e6389197bea985c9e.jpg",
+    "static/media/Resume.jpg": "/abitha-portfolio/static/media/Resume.7b25ef90bf1ac94522d0.jpg",
+    "static/media/ecommerce-website.jpg": "/abitha-portfolio/static/media/ecommerce-website.0754f8fe5c6de056af6f.jpg",
+    "static/media/website-blog.jpg": "/abitha-portfolio/static/media/website-blog.e5b2cc61fc37b6d1a495.jpg",
+    "index.html": "/abitha-portfolio/index.html",
+    "main.7b166e4f.css.map": "/abitha-portfolio/static/css/main.7b166e4f.css.map",
+    "main.17fdfe30.js.map": "/abitha-portfolio/static/js/main.17fdfe30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b166e4f.css",
+    "static/js/main.17fdfe30.js"
+  ]
+}
